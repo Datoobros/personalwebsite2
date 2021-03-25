@@ -1,0 +1,16 @@
+body{
+  background-color: #f0ffff;
+}
+.details{
+  background-color: red;
+
+}
+.hobbies{
+  background-color: blue
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 20%
+  
+}
