@@ -1,0 +1,39 @@
+body{
+  background-color: #f0ffff;
+}
+.details{
+  background-color: red;
+
+}
+.hobbies{
+  background-color: blue
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 20%
+}
+.colour{
+background-color: red;
+background-color: yellow;
+}
+
+.MyName{
+  background-color: #86F4F8;
+  width: 250px;
+border-color:#208C90;
+  border-style: solid solid solid solid;
+}
+.AboutMe{
+  background-color: #86F4F8;
+  Width: 250px;
+  border-color:#208C90;
+  border-style: solid solid solid solid;
+
+}
+.Details{
+  background-color: #86F4F8;
+  Width: 250px;
+  border-color:#208C90;
+  border-style: solid solid solid solid;
+}
